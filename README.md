@@ -1,14 +1,12 @@
 
-# naracanto.com
+# naracanto.github.io
 
-Source code of the website [naracanto.com](https://naracanto.com).
-
-Nothing more.
+Website of [naracanto](https://naracanto.github.io).
 
 
 ## Copyright
 
-Copyright &copy; 2021 [naracanto](https://naracanto.com).
+Copyright &copy; 2021-2022 [naracanto](https://naracanto.github.io). All rights reserved.
 
 
 ## License
